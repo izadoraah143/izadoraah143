@@ -1,4 +1,4 @@
-Olá, meu nome é Izadora ♥
+Olá! Eu sou a Izadora ♥
 
 Sou estudante do curso técnico em DS da ETEC de Registro.
 
