@@ -1,2 +1,7 @@
-♥ Olá, meu nome é Izadora de Oliveira e sou estudante do curso de Técnico em Desenvolvimento de Sistemas da ETEC de Registro
-♥ Tenho experiência com a ferramenta Figma, Gimp e Visual Studio Code
+Olá, meu nome é Izadora ♥
+Sou estudante do curso técnico em DS da ETEC de Registro.
+Tenho experiência com HTML e ferramentas como:
+- Figma
+- Gimp
+- Visual studio Code
+Atualmente estou aprendendo JavaScipt. 
