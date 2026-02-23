@@ -1,6 +1,6 @@
 Olá! Eu sou a Izadora ♥
 
-Sou estudante do curso técnico em DS da ETEC de Registro.
+Sou estudante do curso técnico em Desenvolvimento de Sistemas da ETEC de Registro.
 
 📚Tenho experiência com HTML, CSS e ferramentas como:
 - Figma;
