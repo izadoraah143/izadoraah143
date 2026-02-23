@@ -7,7 +7,7 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas da ETEC de Regist
 - Gimp;
 - Visual Studio Code.
   
-Atualmente estou aprendendo JavaScript. 
+Atualmente estou aprendendo JavaScript🟨.
 
 🎯Meus objetivos são:
 - Aprender mais sobre programação;
