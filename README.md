@@ -4,11 +4,11 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas da ETEC de Regist
 
 💻 Tecnologias e ferramentas que utilizo:
 
-• HTML
-• CSS
-• Figma
-• GIMP
-• Visual Studio Code
+-  HTML
+-  CSS
+-  Figma
+-  GIMP
+-  Visual Studio Code
 
 🌱 Atualmente estou aprendendo JavaScript 🟨
 
