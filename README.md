@@ -14,5 +14,5 @@ Sou estudante do curso técnico em Desenvolvimento de Sistemas da ETEC de Regist
 
 🎯 Meus objetivos são:
 
-• Aprender mais sobre programação
-• Criar meus próprios projetos
+- Aprender mais sobre programação
+- Criar meus próprios projetos
