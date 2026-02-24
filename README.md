@@ -1,4 +1,4 @@
-Olá! Eu sou a Izadora 🤍
+Olá! Eu sou a Izadora ♥
 
 Sou estudante do curso técnico em Desenvolvimento de Sistemas da ETEC de Registro.
 
